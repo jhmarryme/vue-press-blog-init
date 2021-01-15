@@ -12,6 +12,8 @@ heroImage的地址配置第一个'/'默认指向的是 docs/.vuepress/public，�
 
 ## 自动生成导航栏和侧边栏
 
+[插件github地址](https://github.com/shanyuhai123/vuepress-plugin-auto-sidebar)
+
 ```
 // 安装
 npm i vuepress-plugin-auto-sidebar -D
