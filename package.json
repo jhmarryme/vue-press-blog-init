@@ -1,0 +1,26 @@
+{
+  "name": "jhmarryme-s-blog",
+  "version": "1.0.0",
+  "description": "jhmarryme's-blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhmarryme/jhmarryme-s-blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhmarryme/jhmarryme-s-blog/issues"
+  },
+  "homepage": "https://github.com/jhmarryme/jhmarryme-s-blog#readme",
+  "devDependencies": {
+    "vuepress": "^1.7.1",
+    "vuepress-plugin-auto-sidebar": "^1.5.0"
+  }
+}
