@@ -2,7 +2,8 @@
 
 # Vuepress 搭建记录
 
-> [初始化项目地址](https://github.com/jhmarryme/vue-press-blog-init)
+> [项目地址](https://github.com/jhmarryme/vue-press-blog-init)
+> 初始化项目的分支在 `init-vuepress`
 
 
 
